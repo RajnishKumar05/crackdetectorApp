@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+numpy
+pillow
+matplotlib
+seaborn
+scikit-learn
+reportlab
+torch
+transformers
