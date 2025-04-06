@@ -1,8 +1,0 @@
-tensorflow-cpu==2.19.0
-streamlit==1.44.1
-numpy
-Pillow
-matplotlib
-seaborn
-scikit-learn
-reportlab
